@@ -1,6 +1,6 @@
 {
-  "name": "@ahdcrearive/tailwind-config",
-  "version": "0.5.2",
+  "name": "@ahdcreative/tailwind-config",
+  "version": "0.5.3",
   "description": "TailwindCSS configuration used by AHDCreative and Artek projects",
   "author": "ahdcreative <hello@ahd-creative.agency> (http://ahd-creative.agency/)",
   "license": "MIT",
