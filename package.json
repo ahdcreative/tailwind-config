@@ -1,0 +1,16 @@
+{
+  "name": "@ahdcrearive/tailwind-config",
+  "version": "0.5.2",
+  "description": "TailwindCSS configuration used by AHDCreative and Artek projects",
+  "author": "ahdcreative <hello@ahd-creative.agency> (http://ahd-creative.agency/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdcreative/tailwind-config.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ahdcreative/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/ahdcreative/tailwind-config#readme",
+  "main": "ahd-tailwing-config.js"
+}
